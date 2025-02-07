@@ -486,7 +486,8 @@ namespace ordersNTransfers
                                     if (continuar)
                                     {
                                         _lg.entryLog($"Articulo: {codigoArticulo}");
-                                        sapPurchaseOrder.Lines.ItemCode = codigoArticulo;
+                                        Console.WriteLine($"Articulo: {codigoArticulo}");
+                                        sapPurchaseOrder.Lines.ItemCode = "BF-" + codigoArticulo;
 
                                         if (_operacion == "GRS-CR")
                                         { sapPurchaseOrder.Lines.WarehouseCode = "01 B"; }
@@ -694,7 +695,7 @@ namespace ordersNTransfers
                                 if (procesarLinea)
                                 {
                                     _lg.entryLog($"Articulo: {linea["product_id"][0]["name"]}");
-                                    sapPurchaseOrder.Lines.ItemCode = linea["product_id"][0]["name"].ToString();
+                                    sapPurchaseOrder.Lines.ItemCode = "BF-" + linea["product_id"][0]["name"].ToString();
 
                                     if (_operacion == "GRS-CR")
                                     { sapPurchaseOrder.Lines.WarehouseCode = "01 B"; }
@@ -907,7 +908,7 @@ namespace ordersNTransfers
 
                                     if (continuar)
                                     {
-                                        sapOrder.Lines.ItemCode = linea["product_id"][0]["name"].ToString();
+                                        sapOrder.Lines.ItemCode = "BF-" + linea["product_id"][0]["name"].ToString();
                                         sapOrder.Lines.WarehouseCode = "01";
                                         sapOrder.Lines.Quantity = double.Parse(linea["product_qty"].ToString());
                                         sapOrder.Lines.TaxCode = "EXE";

@@ -13,9 +13,9 @@ namespace ordersNTransfers
         static void Main(string[] args)
         {
             // uso general 
-            Boolean test = false;
+            Boolean test = true;
             int userSAP = 0;
-            string estadoTransitoBarco = "sailing";
+            string estadoTransitoBarco = "fiscal_warehouse"; //"sailing";
             string estadoTransitoPuerto = "arrived_to_port";
             string estadoBodegaFiscal = "fiscal_warehouse";
             logObj lg;
@@ -116,8 +116,12 @@ namespace ordersNTransfers
 
                         pgObj = new postgreSQLobj(test);
 
-                        string filePath = "transitos.xlsx"; // O usa "transitos.csv"
-                        trs = postgreSQLobj.GetManufacturingOrderShippingOverviewFromFile(filePath);
+                        //string filePath = "transitos.xlsx"; // O usa "transitos.csv"
+                        //trs = postgreSQLobj.GetManufacturingOrderShippingOverviewFromFile(filePath);
+
+                        pgObj = new postgreSQLobj(test);
+
+                        trs = postgreSQLobj.getManufacturingOrderShippingOverview(postgreSQLobj.ConnectionString);
 
                         companys = obtieneJSon(ar.getInfo("res.company/search", _params1, test), lg);
 
@@ -138,7 +142,7 @@ namespace ordersNTransfers
                                     {
                                         lg.entryLog($"{transit["id"]}: {transit["name"]}");
 
-                                        //if (transit["name"].ToString() == "SHIP/2024/06967" || transit["name"].ToString() == "SHIP/2024/06968" || transit["name"].ToString() == "SHIP/2024/06969" || transit["name"].ToString() == "SHIP/2025/06971" || transit["name"].ToString() == "SHIP/2025/06973" || transit["name"].ToString() == "SHIP/2025/06976" || transit["name"].ToString() == "SHIP/2025/06977" || transit["name"].ToString() == "SHIP/2025/06983") //if(transit["name"].ToString() == "SHIP/2024/06967")//if (transit["name"].ToString() == "SHIP/2025/06964" || transit["name"].ToString() == "SHIP/2025/06963" || transit["name"].ToString() == "SHIP/2025/06962")//if (transit["name"].ToString() == "SHIP/2025/06961" || transit["name"].ToString() == "SHIP/2025/06960" || transit["name"].ToString() == "SHIP/2025/06959")//if (transit["name"].ToString() == "SHIP/2024/") //if (transit["name"].ToString() == "SHIP/2024/03006") { continue; }//"SHIP/2024/02362")  // ((transit["name"].ToString() == "SHIP/2023/01103") || (transit["name"].ToString() == "SHIP/2022/01038"))//((transit["name"].ToString() == "SHIP/2022/00548")) || (transit["name"].ToString() == "SHIP/2021/00185")) // || (transit["name"].ToString() == "SHIP/2021/00012") || (transit["name"].ToString() == "SHIP/2021/00101") || (transit["name"].ToString() == "SHIP/2021/00098") || (transit["name"].ToString() == "SHIP/2021/00136"))
+                                        if (transit["name"].ToString() == "SHIP/2024/03242")//if (transit["name"].ToString() == "SHIP/2024/06967" || transit["name"].ToString() == "SHIP/2024/06968" || transit["name"].ToString() == "SHIP/2024/06969" || transit["name"].ToString() == "SHIP/2025/06971" || transit["name"].ToString() == "SHIP/2025/06973" || transit["name"].ToString() == "SHIP/2025/06976" || transit["name"].ToString() == "SHIP/2025/06977" || transit["name"].ToString() == "SHIP/2025/06983") //if(transit["name"].ToString() == "SHIP/2024/06967")//if (transit["name"].ToString() == "SHIP/2025/06964" || transit["name"].ToString() == "SHIP/2025/06963" || transit["name"].ToString() == "SHIP/2025/06962")//if (transit["name"].ToString() == "SHIP/2025/06961" || transit["name"].ToString() == "SHIP/2025/06960" || transit["name"].ToString() == "SHIP/2025/06959")//if (transit["name"].ToString() == "SHIP/2024/") //if (transit["name"].ToString() == "SHIP/2024/03006") { continue; }//"SHIP/2024/02362")  // ((transit["name"].ToString() == "SHIP/2023/01103") || (transit["name"].ToString() == "SHIP/2022/01038"))//((transit["name"].ToString() == "SHIP/2022/00548")) || (transit["name"].ToString() == "SHIP/2021/00185")) // || (transit["name"].ToString() == "SHIP/2021/00012") || (transit["name"].ToString() == "SHIP/2021/00101") || (transit["name"].ToString() == "SHIP/2021/00098") || (transit["name"].ToString() == "SHIP/2021/00136"))
                                         {
                                             faseActiva = "Verificacion de detalle y BL del transito, traslado de transitos";
 
@@ -205,7 +209,8 @@ namespace ordersNTransfers
 
                                                                                     for (int ind = 0; ind < piNumber.GetLength(0); ind++)
                                                                                     {
-                                                                                        shGlobalDocOC = shGR.generaOrdenCompra(transit, lineasOrden, 15, lg, "GRS-GR", test, piNumber, ind, userSAP);
+                                                                                        //shGlobalDocOC = shGR.generaOrdenCompra(transit, lineasOrden, 15, lg, "GRS-GR", test, piNumber, ind, userSAP);
+                                                                                        shGlobalDocOC = 1;
 
                                                                                         if (shGlobalDocOC <= 0) { lg.entryLog("Error al procesar Orden de Compra Global Reach"); }
                                                                                         else
@@ -216,7 +221,9 @@ namespace ordersNTransfers
                                                                                             {
                                                                                                 // generacion de orden de venta en Global Reach
                                                                                                 faseActiva = "Generacion de orden de venta en Global Reach";
-                                                                                                shGlobalDocOV = shGR.generaOrdenVenta(transit, lineasOrden, operaciones[i, 3], lg, test, piNumber, ind, userSAP, dtInv);
+                                                                                                //shGlobalDocOV = shGR.generaOrdenVenta(transit, lineasOrden, operaciones[i, 3], lg, test, piNumber, ind, userSAP, dtInv);
+
+                                                                                                shGlobalDocOV = 1;
 
                                                                                                 if (shGlobalDocOV <= 0)
                                                                                                 {
@@ -319,182 +326,6 @@ namespace ordersNTransfers
                             }
                             }
                             
-                            if (test)
-                            {
-                                spFact = "PR_SL_TEST_TRANSITO_FACTURADO";
-                                //spEta = "PR_SL_TEST_TRANSITO_ETA";
-                            }
-                            else
-                            {
-                                spFact = "PR_SL_TRANSITO_FACTURADO";
-                                //spEta = "PR_SL_TRANSITO_ETA";
-                            }
-
-                            faseActiva = "Verificacion de ingresos a bodega de transitos en estado SAILING, ingresos bodega";
-                            lg.entryLog(faseActiva);
-
-                            foreach (JToken transit in trs["data"])
-                            {
-                                if ((transit["state"].ToString() == estadoTransitoPuerto) || (transit["state"].ToString() == estadoBodegaFiscal))
-                                {
-                                    //if (transit["name"].ToString() == "SHIP/2024/03400")//if (transit["name"].ToString() == "SHIP/2024/02362")// || (transit["name"].ToString() == "SHIP/2021/00035") || (transit["name"].ToString() == "SHIP/2021/00036") || (transit["name"].ToString() == "SHIP/2021/00039") || (transit["name"].ToString() == "SHIP/2021/00072"))
-                                    {
-                                        lg.entryLog($"ID: {transit["id"]}: {transit["name"]}");
-                                        faseActiva = "Verificacion de detalle y BL del transito, ingresos bodega";
-
-                                        if ((verificaDetalle(transit, "General", estadoTransitoPuerto, lg, test) && verificaBL(transit, "General", estadoTransitoPuerto, lg, test)) || (verificaDetalle(transit, "General", estadoBodegaFiscal, lg, test) && verificaBL(transit, "General", estadoBodegaFiscal, lg, test)))
-                                        {
-                                            lg.entryLog($"Detalle verificado OK.");
-                                            lineasOrden = new JToken[1];
-                                            piNumber = new string[0, 0];
-                                            compraDirecta = false;
-                                            compraLocal = true;
-                                            faseActiva = "Clasificacion destino y fabricante en lineas, ingresos bodega";
-
-                                            if (clasificaDestinoLineas(ar, ref operaciones, transit, ref lineasOrden, ref piNumber, ref fabricante, ref compraDirecta, ref compraLocal, ref incoterm, lg, test, noOps))
-                                            {
-                                                lg.entryLog($"Clasificacion lineas OK.");
-                                                lg.entryLog($"Incoterm: {incoterm}, compra local {compraLocal}.");
-
-                                                if (incoterm == "fob")
-                                                { 
-                                                    // acciones a realizar luego de trasladado el transito
-                                                }
-                                                else
-                                                {
-                                                    if (compraLocal)
-                                                    {
-                                                        lg.entryLog($"Compra local or landed OK.");
-
-                                                        for (int i = 0; i <= noOps; i++)
-                                                        {
-                                                            if (operaciones[i, 1] == "1")
-                                                            {
-                                                                // conexion con operacion involucrada
-
-                                                                faseActiva = $"Conectando con {operaciones[i, 0]} para verificar ingresos a bodega";
-                                                                hn = new SAPHana(operaciones[i, 0], test);
-                                                                lg.entryLog(SAPHana.SCnnStatus);
-                                                                shOperacionStatus = SAPHana.SCnnStatus;
-                                                                shOperacionEC = SAPHana.LErrCode;
-
-                                                                if (shOperacionEC == 0)
-                                                                {
-                                                                    lg.entryLog(faseActiva);
-
-                                                                    faseActiva = $"Recuperando ingresos a bodega de transito {transit["id"]}";
-                                                                    lineasAbiertas = lineasOrden.Length;
-                                                                    tbIng = SAPHana.getIngresosBodega(spFact, operaciones[i, 0], transit["id"].ToString());
-                                                                    lg.entryLog($"Ingresos bodega: {tbIng.Rows.Count}");
-
-                                                                    foreach (DataRow dr in tbIng.Rows)
-                                                                    {
-                                                                        diferencia = float.Parse(dr["cantidad"].ToString());
-
-                                                                        foreach (JToken linea in lineasOrden)
-                                                                        {
-                                                                            faseActiva = $"Eliminando cantidades aplicadas {transit["id"]}";
-
-                                                                            if (linea != null)
-                                                                            {
-                                                                                cantidadSAP = 0;
-
-                                                                                if ((linea["product_country_code"].ToString().Length > 0) && (linea["product_country_code"].ToString() != "False"))
-                                                                                { codigoArticulo = linea["product_country_code"].ToString(); }
-                                                                                else
-                                                                                { codigoArticulo = linea["product_id"][0]["name"].ToString(); }
-
-                                                                                if (codigoArticulo == dr["ItemCode"].ToString())
-                                                                                {
-                                                                                    if (linea["qty_sap"].ToString() != "False")
-                                                                                        cantidadSAP = float.Parse(linea["qty_sap"].ToString());
-
-                                                                                    diferencia -= cantidadSAP;
-                                                                                }
-                                                                            }
-                                                                        }
-
-                                                                        foreach (JToken linea in lineasOrden) 
-                                                                        {
-                                                                            if (diferencia > 0)
-                                                                            {
-                                                                                faseActiva = $"Recorriendo lineas del transito {transit["id"]}";
-
-                                                                                if (linea != null)
-                                                                                {
-                                                                                    if (linea["shipping_status"][0]["id"].ToString() == "15")
-                                                                                    {
-                                                                                        if ((linea["product_country_code"].ToString().Length > 0) && (linea["product_country_code"].ToString() != "False"))
-                                                                                        { codigoArticulo = linea["product_country_code"].ToString(); }
-                                                                                        else
-                                                                                        { codigoArticulo = linea["product_id"][0]["name"].ToString(); }
-
-
-                                                                                        if (codigoArticulo == dr["ItemCode"].ToString())
-                                                                                        {
-
-                                                                                            diferencia -= (float.Parse(linea["product_qty"].ToString()) - float.Parse(linea["qty_sap"].ToString()));
-
-                                                                                            if (diferencia != 0)
-                                                                                            {
-                                                                                                if (diferencia > 0)
-                                                                                                {
-                                                                                                    qty_sap = float.Parse(linea["product_qty"].ToString());
-                                                                                                    body = $"{{ \"qty_sap\": \"{qty_sap}\", \"shipping_status\": {ordersNTransfers.Properties.Resources.shipping_status_arrived} }}";
-                                                                                                    dr["cantidad"] = diferencia;
-                                                                                                    lineasAbiertas--;
-                                                                                                }
-                                                                                                else
-                                                                                                {
-                                                                                                    qty_sap = float.Parse(dr["cantidad"].ToString());
-                                                                                                    body = $"{{ \"qty_sap\": \"{qty_sap}\" }}";
-                                                                                                }
-                                                                                            }
-                                                                                            else
-                                                                                            {
-                                                                                                qty_sap = float.Parse(linea["product_qty"].ToString());
-                                                                                                body = $"{{ \"qty_sap\": \"{qty_sap}\", \"shipping_status\": {ordersNTransfers.Properties.Resources.shipping_status_arrived} }}";
-                                                                                                lineasAbiertas--;
-                                                                                            }
-
-                                                                                            faseActiva = $"Actualizando cantidad ingresada de la linea {linea["id"]}";
-                                                                                            ordLn = obtieneJSon(ar.putInfo("manufacturing.order.lines", int.Parse(linea["id"].ToString()), body), lg);
-
-                                                                                            if (!verificaOperacionAPI(ordLn["success"].ToString()))
-                                                                                            {
-                                                                                                lg.entryLog($"Ocurrio un problema al actualizar la cantidad ingresada de la linea");
-                                                                                                lg.entryLog($"{ordLn["message"]}");
-                                                                                                lg.entryLog($"manufacturing.order.lines/{linea["id"]}");
-                                                                                                lg.entryLog(body);
-                                                                                            }
-                                                                                            else
-                                                                                            {
-                                                                                                lg.entryLog($"Articulo: {codigoArticulo} linea # { linea["number"]} cantidad recibida actualizada {qty_sap}");
-                                                                                            }
-                                                                                        }
-                                                                                    }
-
-                                                                                }
-                                                                            }
-                                                                        }
-                                                                    }
-
-                                                                    hn.desconecta();
-                                                                }
-                                                            }
-                                                        }
-                                                    }
-                                                }
-                                            }
-                                            else
-                                            {
-                                                lg.entryLog("Ocurrio un problema al clasificar destino de las lineas del transito"); 
-                                                lg.entryLog("***", true);
-                                            }
-                                        }
-                                    }
-                                }
-                            }
                         }
                     }
                     catch (Exception ex)

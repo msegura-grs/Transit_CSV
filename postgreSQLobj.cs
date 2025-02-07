@@ -28,11 +28,12 @@ namespace ordersNTransfers
             //postgreSQLobj.connectionString = $"Persist Security Info = False; database= {database}; server= {trasladoPedidoCRM.Properties.Resources.MSsrv}; user id= {trasladoPedidoCRM.Properties.Resources.MSui}; Password = {trasladoPedidoCRM.Properties.Resources.MSpwd}; Port= {trasladoPedidoCRM.Properties.Resources.MSprt}";
             if (_test)
             {
-                postgreSQLobj.connectionString = $"Host = 192.168.11.48; port=5432; Database = OMS15; Username = odoo; Password = AdminOdoo2022@@##";
-                postgreSQLobj.cnnStatus = "OK";
-            } else
-            {
                 postgreSQLobj.connectionString = $"Host = 192.168.11.44; port=5432; Database = {database}; Username = odoo; Password = AdminOdoo2022@@##";
+                postgreSQLobj.cnnStatus = "OK";
+            }
+            else
+            {
+                postgreSQLobj.connectionString = $"Host = 192.168.11.48; port=5432; Database = OMS15; Username = odoo; Password = AdminOdoo2022@@##";
                 postgreSQLobj.cnnStatus = "OK";
             }
         }

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|solutionrelative:saphana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|c:\\users\\msegura\\onedrive - grs electronics\\documentos\\transitos_csv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|c:\\users\\msegura\\onedrive - grs electronics\\documentos\\transitos_csv\\postgresqlobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|solutionrelative:postgresqlobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|solutionrelative:ordersntransfers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|c:\\users\\msegura\\onedrive - grs electronics\\documentos\\transitos_csv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|c:\\users\\msegura\\onedrive - grs electronics\\documentos\\transitos_csv\\mysqlobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|solutionrelative:mysqlobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A62B94A6-303A-4C5B-BA59-FF2D30DE6851}|ordersNTransfers.csproj|C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
@@ -34,12 +38,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ordersNTransfers",
+              "DocumentIndex": 4,
+              "Title": "MySQLobj.cs",
+              "DocumentMoniker": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\MySQLobj.cs",
+              "RelativeDocumentMoniker": "MySQLobj.cs",
+              "ToolTip": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\MySQLobj.cs",
+              "RelativeToolTip": "MySQLobj.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAjwLIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:21:31.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ordersNTransfers.csproj",
               "DocumentMoniker": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\ordersNTransfers.csproj",
               "RelativeDocumentMoniker": "ordersNTransfers.csproj",
               "ToolTip": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\ordersNTransfers.csproj",
@@ -51,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "postgreSQLobj.cs",
               "DocumentMoniker": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\postgreSQLobj.cs",
               "RelativeDocumentMoniker": "postgreSQLobj.cs",
               "ToolTip": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\postgreSQLobj.cs",
               "RelativeToolTip": "postgreSQLobj.cs",
-              "ViewState": "AQIAAIgBAAAAAAAAAAA8wA0BAABLAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T16:02:30.575Z",
               "EditorCaption": ""
@@ -70,40 +87,40 @@
               "RelativeDocumentMoniker": "SAPHana.cs",
               "ToolTip": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\SAPHana.cs",
               "RelativeToolTip": "SAPHana.cs",
-              "ViewState": "AQIAAD8DAAAAAAAAAIAwwE4DAAAYAAAA",
+              "ViewState": "AQIAANABAAAAAAAAAAAjwOYBAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T18:17:39.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAgwH4AAABKAAAA",
+              "ViewState": "AQIAABYBAAAAAAAAAAAgwCUBAACMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T18:16:45.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "apirest.cs",
               "DocumentMoniker": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\apirest.cs",
               "RelativeDocumentMoniker": "apirest.cs",
               "ToolTip": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\apirest.cs",
               "RelativeToolTip": "apirest.cs",
-              "ViewState": "AQIAAJcAAAAAAAAAAIBZwBQAAAA9AAAA",
+              "ViewState": "AQIAAJQAAAAAAAAAACBjwBQAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T18:16:13.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\msegura\\OneDrive - GRS Electronics\\Documentos\\Transitos_CSV\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
