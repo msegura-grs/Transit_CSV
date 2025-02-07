@@ -7,6 +7,8 @@ using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Linq;
+using System.IO;
+using ClosedXML.Excel;
 
 
 namespace ordersNTransfers
@@ -262,6 +264,176 @@ namespace ordersNTransfers
                     ["data"] = new JArray()
                 };
             }
+        }
+
+
+        public static JObject GetManufacturingOrderShippingOverviewFromFile(string filePath)
+        {
+            DataTable dt = new DataTable();
+
+            try
+            {
+                dt = CargarDatosDesdeArchivo(filePath);
+                if (dt.Rows.Count == 0)
+                {
+                    return new JObject
+                    {
+                        ["success"] = false,
+                        ["error"] = "No se encontraron datos en el archivo.",
+                        ["data"] = new JArray()
+                    };
+                }
+
+                // Agrupación de datos
+                var groupedData = dt.AsEnumerable()
+                    .GroupBy(row => new
+                    {
+                        Id = row["id"],
+                        OrderName = row["order_name"],
+                        Name = row["name"],
+                        DateOrder = row["date_order"],
+                        State = row["state"],
+                        BookingNumber = row["booking_number"],
+                        BlNumber = row["bl_number"],
+                        Notes = row["notes"],
+                        Eta = row["eta"],
+                        NewEta = row["new_eta"],
+                        Etd = row["etd"],
+                        PurchaseOrder = row["purchase_order"],
+                        InvoiceComercial = row["invoice_comercial"],
+                        CourierGuide = row["courier_guide"],
+                        Incoterm = row["incoterm"],
+                        CompanyToId = row["company_to_id"],
+                        CompanyToName = row["company_to_name"],
+                        CountryToId = row["country_to_id"],
+                        CountryToName = row["country_to_name"],
+                        IsCfrCheck = row["is_cfr_check"],
+                        CfrFreight = row["cfr_freight"]
+                    })
+                    .Select(group => new JObject
+                    {
+                        ["id"] = Convert.ToInt32(group.Key.Id),
+                        ["order_name"] = group.Key.OrderName.ToString(),
+                        ["name"] = group.Key.Name.ToString(),
+                        ["date_order"] = Convert.ToDateTime(group.Key.DateOrder),
+                        ["state"] = group.Key.State.ToString(),
+                        ["booking_number"] = group.Key.BookingNumber.ToString(),
+                        ["bl_number"] = group.Key.BlNumber.ToString(),
+                        ["notes"] = group.Key.Notes.ToString(),
+                        ["eta"] = Convert.ToDateTime(group.Key.Eta),
+                        ["new_eta"] = Convert.ToDateTime(group.Key.NewEta),
+                        ["etd"] = Convert.ToDateTime(group.Key.Etd),
+                        ["purchase_order"] = group.Key.PurchaseOrder.ToString(),
+                        ["invoice_comercial"] = group.Key.InvoiceComercial.ToString(),
+                        ["courier_guide"] = group.Key.CourierGuide.ToString(),
+                        ["incoterm"] = group.Key.Incoterm.ToString(),
+                        ["company_to_id"] = Convert.ToInt32(group.Key.CompanyToId),
+                        ["company_to_name"] = group.Key.CompanyToName.ToString(),
+                        ["country_to_id"] = Convert.ToInt32(group.Key.CountryToId),
+                        ["country_to_name"] = group.Key.CountryToName.ToString(),
+                        ["is_cfr_check"] = Convert.ToBoolean(group.Key.IsCfrCheck),
+                        ["cfr_freight"] = Convert.ToDouble(group.Key.CfrFreight),
+                        ["lines_ids"] = new JArray(
+                            group.Select(row => new JObject
+                            {
+                                ["id"] = row["lines_id"] != DBNull.Value ? Convert.ToInt32(row["lines_id"]) : 0,
+                                ["name"] = row["lines_name"] != DBNull.Value ? row["lines_name"].ToString() : null
+                            })
+                        ),
+                        ["company_to_id"] = new JArray(
+                            group.Select(row => new JObject
+                            {
+                                ["id"] = Convert.ToInt32(row["company_to_id"]),
+                                ["name"] = row["company_to_name"].ToString()
+                            })
+                        ),
+                        ["country_to_id"] = new JArray(
+                            group.Select(row => new JObject
+                            {
+                                ["id"] = Convert.ToInt32(row["country_to_id"]),
+                                ["name"] = row["country_to_name"].ToString()
+                            })
+                        ),
+                        ["shipper_id"] = new JArray(
+                            group.Select(row => new JObject
+                            {
+                                ["id"] = Convert.ToInt32(row["shipper_id"]),
+                                ["name"] = row["shipper_name"].ToString()
+                            })
+                        ),
+                        ["pol_id"] = new JArray(
+                            group.Select(row => new JObject
+                            {
+                                ["id"] = Convert.ToInt32(row["pol_id"]),
+                                ["name"] = row["pol_name"].ToString()
+                            })
+                        )
+                    });
+
+                // Crear el objeto final con "success" y "data"
+                JObject result = new JObject
+                {
+                    ["success"] = groupedData.Any(),
+                    ["data"] = new JArray(groupedData)
+                };
+
+                return result;
+            }
+            catch (Exception ex)
+            {
+                return new JObject
+                {
+                    ["success"] = false,
+                    ["error"] = ex.Message,
+                    ["data"] = new JArray()
+                };
+            }
+        }
+
+        static DataTable CargarDatosDesdeArchivo(string filePath)
+        {
+            DataTable dt = new DataTable();
+
+            if (filePath.EndsWith(".csv"))
+            {
+                using (StreamReader sr = new StreamReader(filePath))
+                {
+                    string[] headers = sr.ReadLine().Split(',');
+                    foreach (string header in headers)
+                        dt.Columns.Add(header.Trim());
+
+                    while (!sr.EndOfStream)
+                    {
+                        string[] rows = sr.ReadLine().Split(',');
+                        dt.Rows.Add(rows);
+                    }
+                }
+            }
+            else if (filePath.EndsWith(".xlsx")) // Leer Excel con ClosedXML
+            {
+                using (var workbook = new XLWorkbook(filePath))
+                {
+                    var worksheet = workbook.Worksheet(1);
+                    var rows = worksheet.RowsUsed();
+
+                    foreach (var cell in rows.First().CellsUsed())
+                        dt.Columns.Add(cell.Value.ToString());
+
+                    foreach (var row in rows.Skip(1))
+                    {
+                        DataRow newRow = dt.NewRow();
+                        int columnIndex = 0;
+                        foreach (var cell in row.CellsUsed())
+                        {
+                            newRow[columnIndex] = cell.Value.ToString();
+                            columnIndex++;
+                        }
+                        dt.Rows.Add(newRow);
+                    }
+                }
+            }
+
+            return dt;
         }
 
 

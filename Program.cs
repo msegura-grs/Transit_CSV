@@ -116,7 +116,8 @@ namespace ordersNTransfers
 
                         pgObj = new postgreSQLobj(test);
 
-                        trs = postgreSQLobj.getManufacturingOrderShippingOverview(postgreSQLobj.ConnectionString);
+                        string filePath = "transitos.xlsx"; // O usa "transitos.csv"
+                        trs = postgreSQLobj.GetManufacturingOrderShippingOverviewFromFile(filePath);
 
                         companys = obtieneJSon(ar.getInfo("res.company/search", _params1, test), lg);
 

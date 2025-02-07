@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ordersNTransfers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2943eb35dc9f01887e6628510315c866c2007233")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d75d8ca21f6d741cabba76ec54a391e1a5d978d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ordersNTransfers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ordersNTransfers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
