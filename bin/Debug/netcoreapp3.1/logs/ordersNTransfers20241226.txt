@@ -1,0 +1,10 @@
+Hora inicio: 26/12/2024 16:33:14
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Ocurrio un problema al recoger la informacion de transitos
+manufacturing.shipping/search
+
+domain =[('state','=','sailing')]
+fields =['bl_number', 'booking_number', 'create_date', 'date_order', 'display_name', 'name', 'id', 'lines_ids', 'shipper_id', 'eta', 'is_cfr_check' ,'cfr_freight']
+Hora inicio: 26/12/2024 16:37:59
+Hora inicio: 26/12/2024 16:41:25
+3178: SHIP/2024/03161

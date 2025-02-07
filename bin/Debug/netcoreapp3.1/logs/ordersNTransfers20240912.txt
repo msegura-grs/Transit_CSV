@@ -1,0 +1,565 @@
+Hora inicio: 12/09/2024 11:08:16
+3086: SHIP/2024/03069
+3085: SHIP/2024/03068
+3084: SHIP/2024/03067
+3082: SHIP/2024/03065
+3081: SHIP/2024/03064
+3080: SHIP/2024/03063
+3079: SHIP/2024/03062
+3078: SHIP/2024/03061
+3077: SHIP/2024/03060
+3076: SHIP/2024/03059
+3075: SHIP/2024/03058
+3074: SHIP/2024/03057
+3073: SHIP/2024/03056
+3071: SHIP/2024/03054
+3070: SHIP/2024/03053
+3069: SHIP/2024/03052
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5829933|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|TCNU6434822|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|DFSU6869485|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5831397|0
+-*-
+Conectado a GLOBALREACH
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Hora inicio: 12/09/2024 11:09:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:09:52
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:10:08
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:10:53
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:11:14
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:11:32
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:11:47
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:12:05
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:12:21
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:12:40
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:13:14
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:13:47
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:14:06
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:14:21
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:14:37
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:14:53
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:15:08
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:15:24
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:15:40
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:15:54
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:16:37
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:16:53
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:17:09
+3086: SHIP/2024/03069
+3085: SHIP/2024/03068
+3084: SHIP/2024/03067
+3082: SHIP/2024/03065
+3081: SHIP/2024/03064
+3080: SHIP/2024/03063
+3079: SHIP/2024/03062
+3078: SHIP/2024/03061
+3077: SHIP/2024/03060
+3076: SHIP/2024/03059
+3075: SHIP/2024/03058
+3074: SHIP/2024/03057
+3073: SHIP/2024/03056
+3071: SHIP/2024/03054
+3070: SHIP/2024/03053
+3069: SHIP/2024/03052
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5829933|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|TCNU6434822|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|DFSU6869485|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5831397|0
+-*-
+Hora inicio: 12/09/2024 11:40:26
+3086: SHIP/2024/03069
+3085: SHIP/2024/03068
+3084: SHIP/2024/03067
+3082: SHIP/2024/03065
+3081: SHIP/2024/03064
+3080: SHIP/2024/03063
+3079: SHIP/2024/03062
+3078: SHIP/2024/03061
+3077: SHIP/2024/03060
+3076: SHIP/2024/03059
+3075: SHIP/2024/03058
+3074: SHIP/2024/03057
+3073: SHIP/2024/03056
+3071: SHIP/2024/03054
+3070: SHIP/2024/03053
+3069: SHIP/2024/03052
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5829933|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|TCNU6434822|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|DFSU6869485|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5831397|0
+-*-
+Conectado a GLOBALREACH
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Cliente: CR00009: GRS ELECTRONICS USA CORP.
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Error al procesar Orden de Venta Global Reach
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Error al procesar Orden de Venta Global Reach
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Error al procesar Orden de Venta Global Reach
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Error al procesar Orden de Venta Global Reach
+Hora inicio: 12/09/2024 11:50:43
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:50:58
+3086: SHIP/2024/03069
+3085: SHIP/2024/03068
+3084: SHIP/2024/03067
+3082: SHIP/2024/03065
+3081: SHIP/2024/03064
+3080: SHIP/2024/03063
+3079: SHIP/2024/03062
+3078: SHIP/2024/03061
+3077: SHIP/2024/03060
+3076: SHIP/2024/03059
+3075: SHIP/2024/03058
+3074: SHIP/2024/03057
+3073: SHIP/2024/03056
+3071: SHIP/2024/03054
+3070: SHIP/2024/03053
+3069: SHIP/2024/03052
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5829933|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|TCNU6434822|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|DFSU6869485|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5831397|0
+-*-
+Conectado a GLOBALREACH
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Cliente: CR00009: GRS ELECTRONICS USA CORP.
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Articulo: GF 370CP
+Articulo: GLS 171ST-B
+Articulo: GLS 200ST-B
+Articulo: GLS 240ST-B
+Articulo: GLS 245ST-S
+Introduzca un código de moneda válido  [ORDR.DocCur] , '$'
+Error al registrar en bitacora interfaz: libodbcHDB.dll - ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: incorrect syntax near "$": line 1 col 142 (at pos 142)
+Error al procesar Orden de Venta Global Reach
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Articulo: GF 370CP
+Articulo: GLS 171ST-B
+Articulo: GLS 200ST-B
+Articulo: GLS 240ST-B
+Articulo: GLS 245ST-S
+Introduzca un código de moneda válido  [ORDR.DocCur] , '$'
+Error al registrar en bitacora interfaz: libodbcHDB.dll - ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: incorrect syntax near "$": line 1 col 142 (at pos 142)
+Error al procesar Orden de Venta Global Reach
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Articulo: GF 370CP
+Articulo: GLS 171ST-B
+Articulo: GLS 200ST-B
+Articulo: GLS 240ST-B
+Articulo: GLS 245ST-S
+Introduzca un código de moneda válido  [ORDR.DocCur] , '$'
+Error al registrar en bitacora interfaz: libodbcHDB.dll - ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: incorrect syntax near "$": line 1 col 142 (at pos 142)
+Error al procesar Orden de Venta Global Reach
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Articulo: GF 370CP
+Articulo: GLS 171ST-B
+Articulo: GLS 200ST-B
+Articulo: GLS 240ST-B
+Articulo: GLS 245ST-S
+Introduzca un código de moneda válido  [ORDR.DocCur] , '$'
+Error al registrar en bitacora interfaz: libodbcHDB.dll - ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: incorrect syntax near "$": line 1 col 142 (at pos 142)
+Error al procesar Orden de Venta Global Reach
+***
+
+3068: SHIP/2024/03051
+3067: SHIP/2024/03050
+3066: SHIP/2024/03049
+3065: SHIP/2024/03048
+3064: SHIP/2024/03047
+3063: SHIP/2024/03046
+3062: SHIP/2024/03045
+3059: SHIP/2024/03042
+3058: SHIP/2024/03041
+3057: SHIP/2024/03040
+3056: SHIP/2024/03039
+3055: SHIP/2024/03038
+3054: SHIP/2024/03037
+3053: SHIP/2024/03036
+3052: SHIP/2024/03035
+3051: SHIP/2024/03034
+3050: SHIP/2024/03033
+3049: SHIP/2024/03032
+3048: SHIP/2024/03031
+3047: SHIP/2024/03030
+3046: SHIP/2024/03029
+3045: SHIP/2024/03028
+3044: SHIP/2024/03027
+3043: SHIP/2024/03026
+3042: SHIP/2024/03025
+3041: SHIP/2024/03024
+3040: SHIP/2024/03023
+3039: SHIP/2024/03022
+3038: SHIP/2024/03021
+3037: SHIP/2024/03020
+3036: SHIP/2024/03019
+3035: SHIP/2024/03018
+3034: SHIP/2024/03017
+3033: SHIP/2024/03016
+3032: SHIP/2024/03015
+3030: SHIP/2024/03013
+3029: SHIP/2024/03012
+3028: SHIP/2024/03011
+3027: SHIP/2024/03010
+3025: SHIP/2024/03008
+3024: SHIP/2024/03007
+3023: SHIP/2024/03006
+3022: SHIP/2024/03005
+3021: SHIP/2024/03004
+3020: SHIP/2024/03003
+3019: SHIP/2024/03002
+3018: SHIP/2024/03001
+3017: SHIP/2024/03000
+3016: SHIP/2024/02999
+3015: SHIP/2024/02998
+3014: SHIP/2024/02997
+3013: SHIP/2024/02996
+3012: SHIP/2024/02995
+3011: SHIP/2024/02994
+3010: SHIP/2024/02993
+3009: SHIP/2024/02992
+3008: SHIP/2024/02991
+3007: SHIP/2024/02990
+3006: SHIP/2024/02989
+3005: SHIP/2024/02988
+3004: SHIP/2024/02987
+3003: SHIP/2024/02986
+3002: SHIP/2024/02985
+3001: SHIP/2024/02984
+3000: SHIP/2024/02983
+2999: SHIP/2024/02982
+2998: SHIP/2024/02981
+2997: SHIP/2024/02980
+2996: SHIP/2024/02979
+2995: SHIP/2024/02978
+2994: SHIP/2024/02977
+2993: SHIP/2024/02976
+2992: SHIP/2024/02975
+2991: SHIP/2024/02974
+2990: SHIP/2024/02973
+2989: SHIP/2024/02972
+2988: SHIP/2024/02971
+2987: SHIP/2024/02970
+2986: SHIP/2024/02969
+2985: SHIP/2024/02968
+2984: SHIP/2024/02967
+2983: SHIP/2024/02966
+2982: SHIP/2024/02965
+2981: SHIP/2024/02964
+2980: SHIP/2024/02963
+2979: SHIP/2024/02962
+2978: SHIP/2024/02961
+2977: SHIP/2024/02960
+2976: SHIP/2024/02959
+2975: SHIP/2024/02958
+2974: SHIP/2024/02957
+2973: SHIP/2024/02956
+2972: SHIP/2024/02955
+2971: SHIP/2024/02954
+2969: SHIP/2024/02952
+2968: SHIP/2024/02951
+2967: SHIP/2024/02950
+2966: SHIP/2024/02949
+2965: SHIP/2024/02948
+2964: SHIP/2024/02947
+2963: SHIP/2024/02946
+2962: SHIP/2024/02945
+2961: SHIP/2024/02944
+2960: SHIP/2024/02943
+2959: SHIP/2024/02942
+2958: SHIP/2024/02941
+2957: SHIP/2024/02940
+2956: SHIP/2024/02939
+2955: SHIP/2024/02938
+2954: SHIP/2024/02937
+2953: SHIP/2024/02936
+2952: SHIP/2024/02935
+2951: SHIP/2024/02934
+2950: SHIP/2024/02933
+2949: SHIP/2024/02932
+2948: SHIP/2024/02931
+2947: SHIP/2024/02930
+2946: SHIP/2024/02929
+2945: SHIP/2024/02928
+2944: SHIP/2024/02927
+2943: SHIP/2024/02926
+2942: SHIP/2024/02925
+2941: SHIP/2024/02924
+2940: SHIP/2024/02923
+2939: SHIP/2024/02922
+2937: SHIP/2024/02920
+2936: SHIP/2024/02919
+2935: SHIP/2024/02918
+2934: SHIP/2024/02917
+2933: SHIP/2024/02916
+2932: SHIP/2024/02915
+2931: SHIP/2024/02914
+2930: SHIP/2024/02913
+2929: SHIP/2024/02912
+2927: SHIP/2024/02910
+2926: SHIP/2024/02909
+2925: SHIP/2024/02908
+2924: SHIP/2024/02907
+2923: SHIP/2024/02906
+2922: SHIP/2024/02905
+2921: SHIP/2024/02904
+2920: SHIP/2024/02903
+2919: SHIP/2024/02902
+2918: SHIP/2024/02901
+2917: SHIP/2024/02900
+2916: SHIP/2024/02899
+2915: SHIP/2024/02898
+2914: SHIP/2024/02897
+2913: SHIP/2024/02896
+2912: SHIP/2024/02895
+2911: SHIP/2024/02894
+2910: SHIP/2024/02893
+2909: SHIP/2024/02892
+2908: SHIP/2024/02891
+2907: SHIP/2024/02890
+2906: SHIP/2024/02889
+2905: SHIP/2024/02888
+2904: SHIP/2024/02887
+2903: SHIP/2024/02886
+2902: SHIP/2024/02885
+2901: SHIP/2024/02884
+2899: SHIP/2024/02882
+2898: SHIP/2024/02881
+2897: SHIP/2024/02880
+2896: SHIP/2024/02879
+2895: SHIP/2024/02878
+2894: SHIP/2024/02877
+2893: SHIP/2024/02876
+2892: SHIP/2024/02875
+2888: SHIP/2024/02871
+2887: SHIP/2024/02870
+2886: SHIP/2024/02869
+2885: SHIP/2024/02868
+2884: SHIP/2024/02867
+2883: SHIP/2024/02866
+2882: SHIP/2024/02865
+2881: SHIP/2024/02864
+2880: SHIP/2024/02863
+2879: SHIP/2024/02862
+2878: SHIP/2024/02861
+2877: SHIP/2024/02860
+2876: SHIP/2024/02859
+2875: SHIP/2024/02858
+2874: SHIP/2024/02857
+2873: SHIP/2024/02856
+2872: SHIP/2024/02855
+2871: SHIP/2024/02854
+2870: SHIP/2024/02853
+2865: SHIP/2024/02848
+2864: SHIP/2024/02847
+2863: SHIP/2024/02846
+2862: SHIP/2024/02845
+2861: SHIP/2024/02844
+2860: SHIP/2024/02843
+2859: SHIP/2024/02842
+2858: SHIP/2024/02841
+2857: SHIP/2024/02840
+2855: SHIP/2024/02838
+2854: SHIP/2024/02837
+2850: SHIP/2024/02833
+2849: SHIP/2024/02832
+2848: SHIP/2024/02831
+2845: SHIP/2024/02828
+2844: SHIP/2024/02827
+2843: SHIP/2024/02826
+2842: SHIP/2024/02825
+2840: SHIP/2024/02823
+2839: SHIP/2024/02822
+2838: SHIP/2024/02821
+2836: SHIP/2024/02819
+2832: SHIP/2024/02815
+2829: SHIP/2024/02812
+2828: SHIP/2024/02811
+2826: SHIP/2024/02809
+2824: SHIP/2024/02807
+2816: SHIP/2024/02799
+2815: SHIP/2024/02798
+2805: SHIP/2024/02788
+2804: SHIP/2024/02787
+2801: SHIP/2024/02784
+2800: SHIP/2024/02783
+2798: SHIP/2024/02781
+2797: SHIP/2024/02780
+2794: SHIP/2024/02777
+2791: SHIP/2024/02774
+2773: SHIP/2024/02756
+2772: SHIP/2024/02755
+2757: SHIP/2024/02740
+2756: SHIP/2024/02739
+2755: SHIP/2024/02738
+2749: SHIP/2024/02732
+2734: SHIP/2024/02717
+2733: SHIP/2024/02716
+2732: SHIP/2024/02715
+2731: SHIP/2024/02714
+2725: SHIP/2024/02708
+2721: SHIP/2024/02704
+2693: SHIP/2024/02676
+2690: SHIP/2024/02673
+2683: SHIP/2024/02666
+2682: SHIP/2024/02665
+2679: SHIP/2024/02662
+2678: SHIP/2024/02661
+2677: SHIP/2024/02660
+2668: SHIP/2024/02651
+2665: SHIP/2024/02648
+2664: SHIP/2024/02647
+2660: SHIP/2024/02643
+2658: SHIP/2024/02641
+2656: SHIP/2024/02639
+2655: SHIP/2024/02638
+2652: SHIP/2024/02635
+2651: SHIP/2024/02634
+2648: SHIP/2024/02631
+2647: SHIP/2024/02630
+2643: SHIP/2024/02626
+2637: SHIP/2024/02620
+2636: SHIP/2024/02619
+2635: SHIP/2024/02618
+2634: SHIP/2024/02617
+2591: SHIP/2024/02574
+2586: SHIP/2024/02569
+2585: SHIP/2024/02568
+2583: SHIP/2024/02566
+2581: SHIP/2024/02564
+2580: SHIP/2024/02563
+2571: SHIP/2024/02554
+1832: SHIP/2023/01815
+1830: SHIP/2023/01813
+Verificacion de ingresos a bodega de transitos en estado SAILING, ingresos bodega
+ID: 2846: SHIP/2024/02829
+Detalle verificado OK.
+W940011-AHN|*KE*|GRS-HN|91|3011|MSKU8620220|0
+-*-
+Clasificacion lineas OK.
+Incoterm: local, compra local True.
+Compra local or landed OK.
+Conectado a ALCANCE_HN
+Conectando con GRS-HN para verificar ingresos a bodega
+Ingresos bodega: 0
+ID: 2827: SHIP/2024/02810
+Detalle verificado OK.
+GXT2410HN|*XT*|GRS-HN|68|3011|SUDU5897003|0
+-*-
+GXT2410HN|*XT*|GRS-HN|68|3011|BEAU5685065|0
+-*-
+GXT2413HN|*XT*|GRS-HN|68|12|MSKU0415770|0
+-*-
+GXT2408HN|*XT*|GRS-HN|68|12|MSKU0415770|0
+-*-
+GXT2413HN|*XT*|GRS-HN|68|12|SUDU8947833|0
+-*-
+GXT2413HN|*XT*|GRS-HN|68|12|SUDU5897003|0
+-*-
+GXT2408HN|*XT*|GRS-HN|68|12|SUDU8947833|0
+-*-
+Clasificacion lineas OK.
+Incoterm: local, compra local True.
+Compra local or landed OK.
+Hora inicio: 12/09/2024 11:57:52
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:58:07
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:58:22
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:58:45
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:59:06
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 11:59:57
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 12:00:15
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 12:00:32
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 12:00:50
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 12:05:07
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 12:05:24
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 12/09/2024 12:05:46
+3086: SHIP/2024/03069
+3085: SHIP/2024/03068
+3084: SHIP/2024/03067
+3082: SHIP/2024/03065
+3081: SHIP/2024/03064
+3080: SHIP/2024/03063
+3079: SHIP/2024/03062
+3078: SHIP/2024/03061
+3077: SHIP/2024/03060
+3076: SHIP/2024/03059
+3075: SHIP/2024/03058
+3074: SHIP/2024/03057
+3073: SHIP/2024/03056
+3071: SHIP/2024/03054
+3070: SHIP/2024/03053
+3069: SHIP/2024/03052
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5829933|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|TCNU6434822|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|DFSU6869485|0
+-*-
+GXT2330US|*XT*|GRS-USA|68|8|FFAU5831397|0
+-*-
+Conectado a GLOBALREACH
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Proveedor: P00001 [*XT*]: ZHEJIANG XINGXING REFRIGERATION CO.,LTD
+Cliente: CR00009: GRS ELECTRONICS USA CORP.
+Transito ODOO [3069] SHIP/2024/03052 en [GLOBALREACH] Orden de compra No. [12697] 6236
+Articulo: GF 370CP
+Hora inicio: 12/09/2024 15:46:48
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.

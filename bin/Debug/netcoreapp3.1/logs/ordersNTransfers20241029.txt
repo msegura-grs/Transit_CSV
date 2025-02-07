@@ -1,0 +1,83 @@
+Hora inicio: 29/10/2024 15:46:59
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 15:52:10
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 29/10/2024 15:52:39
+
+Hora inicio: 29/10/2024 15:54:55
+Hora inicio: 29/10/2024 16:09:11
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:09:54
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 29/10/2024 16:10:35
+
+Hora inicio: 29/10/2024 16:10:43
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:11:49
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:12:06
+Hora inicio: 29/10/2024 16:12:23
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:12:56
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:13:15
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:13:30
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:13:46
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:14:48
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:15:05
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:15:20
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:15:38
+Hora inicio: 29/10/2024 16:16:33
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:17:14
+execute[ obtieneJSon (string, string, string): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:17:42
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:18:00
+execute[ obtieneJSon (string, string, string): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:18:17
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:18:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:19:04
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:19:20
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:19:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:23:42
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:24:46
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 29/10/2024 16:25:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 29/10/2024 16:26:24
+
+Hora inicio: 29/10/2024 16:26:26
+Hora inicio: 29/10/2024 16:27:27

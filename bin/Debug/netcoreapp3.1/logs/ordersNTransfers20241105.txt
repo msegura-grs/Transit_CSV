@@ -1,0 +1,27 @@
+Hora inicio: 5/11/2024 08:25:03
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 5/11/2024 08:25:19
+Hora inicio: 5/11/2024 11:43:15
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Unable to cast object of type 'Newtonsoft.Json.Linq.JArray' to type 'Newtonsoft.Json.Linq.JObject'.
+Hora inicio: 5/11/2024 11:44:08
+Hora inicio: 5/11/2024 11:46:10
+Hora inicio: 5/11/2024 11:47:23
+Hora inicio: 5/11/2024 11:49:24
+Hora inicio: 5/11/2024 11:53:26
+Hora inicio: 5/11/2024 11:54:34
+execute[ obtieneJSon (string, string, string): Unable to cast object of type 'Newtonsoft.Json.Linq.JArray' to type 'Newtonsoft.Json.Linq.JObject'.
+Hora inicio: 5/11/2024 11:58:16
+execute[ obtieneJSon (string, string, string): Unable to cast object of type 'Newtonsoft.Json.Linq.JArray' to type 'Newtonsoft.Json.Linq.JObject'.
+Hora inicio: 5/11/2024 11:59:49
+Hora inicio: 5/11/2024 12:03:52
+Hora inicio: 5/11/2024 12:06:14
+Hora inicio: 5/11/2024 12:06:55
+Hora inicio: 5/11/2024 12:07:01
+2871: SHIP/2024/02854
+Hora inicio: 5/11/2024 14:43:31
+3179: SHIP/2024/03162
+Sin detalle definido
+3179: SHIP/2024/03162
+Sin detalle definido
+2871: SHIP/2024/02854

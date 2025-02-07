@@ -1,0 +1,234 @@
+Hora inicio: 30/10/2024 09:00:01
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:00:37
+
+Hora inicio: 30/10/2024 09:07:13
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:07:34
+
+Hora inicio: 30/10/2024 09:07:37
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:08:01
+
+Hora inicio: 30/10/2024 09:08:04
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:08:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:08:46
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:09:03
+
+Hora inicio: 30/10/2024 09:09:20
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:09:43
+
+Hora inicio: 30/10/2024 09:09:47
+Hora inicio: 30/10/2024 09:09:55
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:10:12
+
+Hora inicio: 30/10/2024 09:10:16
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:10:32
+
+Hora inicio: 30/10/2024 09:10:35
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:10:56
+
+Hora inicio: 30/10/2024 09:11:00
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:11:16
+
+Hora inicio: 30/10/2024 09:11:18
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:11:34
+
+Hora inicio: 30/10/2024 09:11:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:11:52
+
+Hora inicio: 30/10/2024 09:11:55
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:12:13
+
+Hora inicio: 30/10/2024 09:12:16
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:12:33
+
+Hora inicio: 30/10/2024 09:12:34
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:12:50
+
+Hora inicio: 30/10/2024 09:12:54
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:13:25
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:13:42
+
+Hora inicio: 30/10/2024 09:13:45
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:14:00
+
+Hora inicio: 30/10/2024 09:14:04
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:14:20
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:14:38
+
+Hora inicio: 30/10/2024 09:14:39
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:25:50
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:26:12
+Hora inicio: 30/10/2024 09:37:04
+Hora inicio: 30/10/2024 09:37:10
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:37:27
+
+Hora inicio: 30/10/2024 09:37:33
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:57:17
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 30/10/2024 09:57:34
+
+Hora inicio: 30/10/2024 09:57:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:57:52
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 30/10/2024 09:58:23
+3421: SHIP/2024/03404
+HM-030591-24|*HOM*|GRS-ES|70|13|MSKU9146809|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3398: SHIP/2024/03381
+350-155 GT|*IC*|GRS-GT|83|2998|CSNU7250465|0
+-*-
+350-155 GT|*IC*|GRS-GT|83|12|TGBU4952062|0
+-*-
+350-155 GT|*IC*|GRS-GT|83|12|OOCU8261001|0
+-*-
+350-155 GT|*IC*|GRS-GT|83|12|CSLU6137185|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+

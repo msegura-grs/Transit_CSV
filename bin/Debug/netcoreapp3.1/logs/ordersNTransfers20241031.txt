@@ -1,0 +1,194 @@
+Hora inicio: 31/10/2024 11:46:09
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 31/10/2024 11:46:29
+
+Hora inicio: 31/10/2024 11:48:07
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 31/10/2024 11:48:27
+
+Hora inicio: 31/10/2024 11:48:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:48:46
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:49:03
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:49:18
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:49:35
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:49:50
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:50:06
+Hora inicio: 31/10/2024 11:50:13
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:50:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:50:43
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:51:00
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:51:16
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:51:32
+Hora inicio: 31/10/2024 11:51:38
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:51:57
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:52:15
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:52:37
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:53:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:53:52
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:54:08
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:54:25
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:54:43
+3421: SHIP/2024/03404
+HM-030591-24|*HOM*|GRS-ES|70|13|MSKU9146809|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3398: SHIP/2024/03381
+350-155 GT|*IC*|GRS-GT|83|2998|CSNU7250465|0
+-*-
+350-155 GT|*IC*|GRS-GT|83|12|TGBU4952062|0
+-*-
+350-155 GT|*IC*|GRS-GT|83|12|OOCU8261001|0
+-*-
+350-155 GT|*IC*|GRS-GT|83|12|CSLU6137185|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3397: SHIP/2024/03380
+350-132|*IC*|GRS-GT|83|2998|TGBU4774340|0
+-*-
+350-132|*IC*|GRS-GT|83|12|CCLU7715184|0
+-*-
+350-132|*IC*|GRS-GT|83|12|OOLU8783574|0
+-*-
+350-132|*IC*|GRS-GT|83|12|CSNU6476550|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3396: SHIP/2024/03379
+350-127|*IC*|GRS-ES|83|3011|TGBU4854678|0
+-*-
+350-150|*IC*|GRS-ES|83|3011|SEKU6821413|0
+-*-
+350-129|*IC*|GRS-ES|83|3011|TCNU1351495|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3395: SHIP/2024/03378
+GXJ24029GT|*XJ*|GRS-GT|69|12|TLLU7604689|0
+-*-
+GXJ24029GT|*XJ*|GRS-GT|69|12|MSMU7204527|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3394: SHIP/2024/03377
+GXJ24010GT|*XJ*|GRS-GT|69|2998|MEDU7002409|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3393: SHIP/2024/03376
+GXJ24019NI|*XJ*|GRS-NI|69|2998|MSMU4443045|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3392: SHIP/2024/03375
+GXT2410HN|*XT*|GRS-GT|68|3011|TEMU6586949|0
+-*-
+GXT2421EC|*XT*|GRS-GT|68|2998|TEMU6586949|0
+-*-
+GXT2428GT|*XT*|GRS-GT|68|2998|TXGU5451520|0
+-*-
+GXT2428GT|*XT*|GRS-GT|68|2998|MSMU6414540|0
+-*-
+GXT2428GT|*XT*|GRS-GT|68|12|MSDU8807283|0
+-*-
+Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+Ocurrió un error de conexión con SAP HANA:
+ Fallo en conexión con [GLOBALREACH] [100000085]: El add-on ya inició sesión con la misma cuenta en ()(INTGRS-SERVER)
+***
+
+3390: SHIP/2024/03373
+GXT2428GT|*XT*|GRS-GT|68|2998|TGBU4632264|0
+-*-
+GXT2428GT|*XT*|GRS-GT|68|12|FCIU9961415|0
+-*-
+GXT2428GT|*XT*|GRS-GT|68|12|ONEU5811223|0
+-*-
+GXT2428GT|*XT*|GRS-GT|68|12|TGBU4632264|0
+-*-
+GXT2441GT|*XT*|GRS-GT|68|2998|ONEU0482001|0
+-*-
+Hora inicio: 31/10/2024 11:59:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 11:59:46
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:00:15
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:00:33
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:01:42
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:02:10
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:02:27
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:02:45
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:03:02
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:03:21
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:03:47
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:04:08
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:05:59
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 31/10/2024 12:06:16
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.

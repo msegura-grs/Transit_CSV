@@ -1,0 +1,969 @@
+Hora inicio: 9/09/2024 11:20:23
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 11:20:56
+
+Hora inicio: 9/09/2024 11:21:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 11:21:54
+
+Hora inicio: 9/09/2024 11:22:05
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 11:22:23
+
+Hora inicio: 9/09/2024 11:22:32
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 11:22:57
+
+Hora inicio: 9/09/2024 11:23:04
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:23:20
+3070: SHIP/2024/03053
+240406|*MINM*|GRS-GT|92|23|PCIU9216562|0
+-*-
+Conectado a GLOBALREACH
+Proveedor: P00004 [*MINM*]: SHENZHEN HEG IMPORT AND EXPORT CO LTD
+Cliente: CR00001: ALCANCE INTEGRAL S.A
+Articulo: 20MGM4
+Transito ODOO [3070] SHIP/2024/03053 en [GLOBALREACH] Orden de compra No. [12649] 6200
+Articulo: 20MGM4
+Transito ODOO [3070] SHIP/2024/03053 en [GLOBALREACH] Orden de venta No. [9730] 6051
+Hora inicio: 9/09/2024 11:47:34
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:47:53
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:48:11
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:48:25
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:48:40
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:49:07
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:49:26
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:49:41
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:49:55
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:50:11
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:50:32
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:51:02
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:51:31
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:51:48
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:52:03
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:52:18
+Hora inicio: 9/09/2024 11:52:31
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:52:50
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:53:19
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:53:39
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:54:07
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:54:46
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:55:12
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:55:30
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:56:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:56:55
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:57:14
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:57:30
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:57:51
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:58:09
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:58:26
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:58:41
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:58:57
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:59:20
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 11:59:37
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 12:00:58
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 12:02:10
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 12:02:32
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 12:02:50
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 12:03:06
+3070: SHIP/2024/03053
+Hora inicio: 9/09/2024 12:03:22
+3070: SHIP/2024/03053
+Hora inicio: 9/09/2024 15:12:59
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:13:16
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:13:30
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:13:44
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:13:58
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:14:12
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:14:26
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:14:44
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:14:58
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:15:12
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:15:27
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:15:42
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:16:03
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:16:18
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:16:35
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:16:57
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:17:23
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:17:39
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:17:58
+Hora inicio: 9/09/2024 15:18:04
+Hora inicio: 9/09/2024 15:18:10
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:18:30
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:18:45
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:19:00
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:19:19
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:19:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:19:51
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:20:12
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:20:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:20:42
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:20:57
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:21:10
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:21:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:21:45
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:22:00
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:22:17
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:22:32
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:22:48
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:23:04
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:23:21
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:23:39
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:24:06
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:24:42
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:24:56
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 15:25:12
+
+Hora inicio: 9/09/2024 15:25:18
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:25:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:25:50
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:26:05
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:26:20
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:26:38
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:26:52
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:27:06
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:27:19
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:28:01
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:28:17
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:28:33
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:28:49
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:29:04
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:29:15
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:29:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:29:41
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:29:54
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:30:07
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:31:03
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:33:34
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:36:17
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:36:45
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:37:01
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 15:37:20
+
+Hora inicio: 9/09/2024 15:37:38
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:39:43
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:42:15
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:43:52
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:45:35
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:49:17
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:49:37
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:49:52
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:51:05
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:53:03
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:53:42
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:54:44
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:56:53
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:57:08
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 15:58:02
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 15:58:23
+
+Hora inicio: 9/09/2024 15:59:13
+3070: SHIP/2024/03053
+Hora inicio: 9/09/2024 16:04:17
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:05:12
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:05:30
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:05:43
+Hora inicio: 9/09/2024 16:05:47
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:06:02
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:06:37
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:06:54
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:07:09
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:07:27
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:07:41
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:09:25
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:10:13
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:10:29
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:11:01
+3070: SHIP/2024/03053
+Hora inicio: 9/09/2024 16:11:56
+3070: SHIP/2024/03053
+Hora inicio: 9/09/2024 16:14:52
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:15:06
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:15:21
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 16:15:37
+
+Hora inicio: 9/09/2024 16:15:39
+Hora inicio: 9/09/2024 16:15:44
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 16:16:04
+
+Hora inicio: 9/09/2024 16:16:10
+Hora inicio: 9/09/2024 16:16:25
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:17:08
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:17:26
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:17:40
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:18:05
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:18:18
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:18:35
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:18:53
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:19:07
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:19:23
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:19:40
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:20:10
+Hora inicio: 9/09/2024 16:20:20
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 16:20:32
+
+Hora inicio: 9/09/2024 16:20:36
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+
+
+Excepcion en Recuperacion de transitos
+ordersNTransfers: Object reference not set to an instance of an object.
+Cierre de cabeceras de transitos: Procedimiento fn_oms_transit_arrived ejecutado con exito. 
+
+Hora fin: 9/09/2024 16:20:48
+
+Hora inicio: 9/09/2024 16:20:55
+3070: SHIP/2024/03053
+240406|*MINM*|GRS-GT|92|23|PCIU9216562|0
+-*-
+Conectado a GLOBALREACH
+Proveedor: P00004 [*MINM*]: SHENZHEN HEG IMPORT AND EXPORT CO LTD
+Cliente: CR00001: ALCANCE INTEGRAL S.A
+Articulo: 20MGM4
+Transito ODOO [3070] SHIP/2024/03053 en [GLOBALREACH] Orden de compra No. [12657] 6203
+Orden procedente de CRM, no genera orden de venta en Global Reach
+***
+
+3045: SHIP/2024/03028
+3044: SHIP/2024/03027
+3043: SHIP/2024/03026
+3042: SHIP/2024/03025
+3041: SHIP/2024/03024
+3040: SHIP/2024/03023
+3039: SHIP/2024/03022
+3038: SHIP/2024/03021
+3037: SHIP/2024/03020
+3036: SHIP/2024/03019
+3035: SHIP/2024/03018
+3034: SHIP/2024/03017
+3030: SHIP/2024/03013
+3029: SHIP/2024/03012
+3028: SHIP/2024/03011
+3027: SHIP/2024/03010
+3025: SHIP/2024/03008
+3022: SHIP/2024/03005
+3021: SHIP/2024/03004
+3020: SHIP/2024/03003
+3019: SHIP/2024/03002
+3018: SHIP/2024/03001
+3017: SHIP/2024/03000
+3016: SHIP/2024/02999
+3015: SHIP/2024/02998
+3014: SHIP/2024/02997
+3013: SHIP/2024/02996
+3012: SHIP/2024/02995
+3011: SHIP/2024/02994
+3010: SHIP/2024/02993
+3009: SHIP/2024/02992
+3008: SHIP/2024/02991
+3007: SHIP/2024/02990
+3006: SHIP/2024/02989
+3005: SHIP/2024/02988
+3004: SHIP/2024/02987
+3003: SHIP/2024/02986
+3002: SHIP/2024/02985
+3001: SHIP/2024/02984
+3000: SHIP/2024/02983
+2999: SHIP/2024/02982
+2998: SHIP/2024/02981
+2997: SHIP/2024/02980
+2996: SHIP/2024/02979
+2994: SHIP/2024/02977
+2993: SHIP/2024/02976
+2992: SHIP/2024/02975
+2991: SHIP/2024/02974
+2988: SHIP/2024/02971
+2987: SHIP/2024/02970
+2986: SHIP/2024/02969
+2985: SHIP/2024/02968
+2984: SHIP/2024/02967
+2983: SHIP/2024/02966
+2982: SHIP/2024/02965
+2981: SHIP/2024/02964
+2980: SHIP/2024/02963
+2979: SHIP/2024/02962
+2978: SHIP/2024/02961
+2977: SHIP/2024/02960
+2976: SHIP/2024/02959
+2975: SHIP/2024/02958
+2974: SHIP/2024/02957
+2973: SHIP/2024/02956
+2972: SHIP/2024/02955
+2971: SHIP/2024/02954
+2969: SHIP/2024/02952
+2968: SHIP/2024/02951
+2967: SHIP/2024/02950
+2966: SHIP/2024/02949
+2965: SHIP/2024/02948
+2964: SHIP/2024/02947
+2963: SHIP/2024/02946
+2962: SHIP/2024/02945
+2961: SHIP/2024/02944
+2960: SHIP/2024/02943
+2959: SHIP/2024/02942
+2958: SHIP/2024/02941
+2957: SHIP/2024/02940
+2956: SHIP/2024/02939
+2955: SHIP/2024/02938
+2954: SHIP/2024/02937
+2953: SHIP/2024/02936
+2952: SHIP/2024/02935
+2951: SHIP/2024/02934
+2950: SHIP/2024/02933
+2949: SHIP/2024/02932
+2948: SHIP/2024/02931
+2947: SHIP/2024/02930
+2946: SHIP/2024/02929
+2945: SHIP/2024/02928
+2944: SHIP/2024/02927
+2943: SHIP/2024/02926
+2942: SHIP/2024/02925
+2941: SHIP/2024/02924
+2940: SHIP/2024/02923
+2939: SHIP/2024/02922
+2937: SHIP/2024/02920
+2936: SHIP/2024/02919
+2935: SHIP/2024/02918
+2934: SHIP/2024/02917
+2933: SHIP/2024/02916
+2932: SHIP/2024/02915
+2931: SHIP/2024/02914
+2930: SHIP/2024/02913
+2929: SHIP/2024/02912
+2927: SHIP/2024/02910
+2926: SHIP/2024/02909
+2925: SHIP/2024/02908
+2924: SHIP/2024/02907
+2923: SHIP/2024/02906
+2922: SHIP/2024/02905
+2921: SHIP/2024/02904
+2920: SHIP/2024/02903
+2919: SHIP/2024/02902
+2918: SHIP/2024/02901
+2917: SHIP/2024/02900
+2916: SHIP/2024/02899
+2915: SHIP/2024/02898
+2914: SHIP/2024/02897
+2913: SHIP/2024/02896
+2912: SHIP/2024/02895
+2911: SHIP/2024/02894
+2910: SHIP/2024/02893
+2909: SHIP/2024/02892
+2908: SHIP/2024/02891
+2907: SHIP/2024/02890
+2906: SHIP/2024/02889
+2905: SHIP/2024/02888
+2904: SHIP/2024/02887
+2903: SHIP/2024/02886
+2902: SHIP/2024/02885
+2901: SHIP/2024/02884
+2899: SHIP/2024/02882
+2898: SHIP/2024/02881
+2897: SHIP/2024/02880
+2896: SHIP/2024/02879
+2895: SHIP/2024/02878
+2894: SHIP/2024/02877
+2893: SHIP/2024/02876
+2892: SHIP/2024/02875
+2888: SHIP/2024/02871
+2887: SHIP/2024/02870
+2886: SHIP/2024/02869
+2885: SHIP/2024/02868
+2884: SHIP/2024/02867
+2883: SHIP/2024/02866
+2882: SHIP/2024/02865
+2881: SHIP/2024/02864
+2880: SHIP/2024/02863
+2879: SHIP/2024/02862
+2878: SHIP/2024/02861
+2877: SHIP/2024/02860
+2876: SHIP/2024/02859
+2875: SHIP/2024/02858
+2874: SHIP/2024/02857
+2873: SHIP/2024/02856
+2872: SHIP/2024/02855
+2871: SHIP/2024/02854
+2870: SHIP/2024/02853
+2865: SHIP/2024/02848
+2864: SHIP/2024/02847
+2863: SHIP/2024/02846
+2862: SHIP/2024/02845
+2861: SHIP/2024/02844
+2860: SHIP/2024/02843
+2859: SHIP/2024/02842
+2858: SHIP/2024/02841
+2857: SHIP/2024/02840
+2855: SHIP/2024/02838
+2854: SHIP/2024/02837
+2850: SHIP/2024/02833
+2849: SHIP/2024/02832
+2848: SHIP/2024/02831
+2845: SHIP/2024/02828
+2844: SHIP/2024/02827
+2843: SHIP/2024/02826
+2842: SHIP/2024/02825
+2840: SHIP/2024/02823
+2839: SHIP/2024/02822
+2838: SHIP/2024/02821
+2836: SHIP/2024/02819
+2832: SHIP/2024/02815
+2829: SHIP/2024/02812
+2828: SHIP/2024/02811
+2826: SHIP/2024/02809
+2824: SHIP/2024/02807
+2816: SHIP/2024/02799
+2815: SHIP/2024/02798
+2805: SHIP/2024/02788
+2804: SHIP/2024/02787
+2801: SHIP/2024/02784
+2800: SHIP/2024/02783
+2798: SHIP/2024/02781
+2797: SHIP/2024/02780
+2794: SHIP/2024/02777
+2791: SHIP/2024/02774
+2773: SHIP/2024/02756
+2772: SHIP/2024/02755
+2757: SHIP/2024/02740
+2756: SHIP/2024/02739
+2755: SHIP/2024/02738
+2749: SHIP/2024/02732
+2734: SHIP/2024/02717
+2733: SHIP/2024/02716
+2732: SHIP/2024/02715
+2731: SHIP/2024/02714
+2725: SHIP/2024/02708
+2721: SHIP/2024/02704
+2693: SHIP/2024/02676
+2690: SHIP/2024/02673
+2683: SHIP/2024/02666
+2682: SHIP/2024/02665
+2679: SHIP/2024/02662
+2678: SHIP/2024/02661
+2677: SHIP/2024/02660
+2668: SHIP/2024/02651
+2665: SHIP/2024/02648
+2664: SHIP/2024/02647
+2660: SHIP/2024/02643
+2658: SHIP/2024/02641
+2656: SHIP/2024/02639
+2655: SHIP/2024/02638
+2652: SHIP/2024/02635
+2651: SHIP/2024/02634
+2648: SHIP/2024/02631
+2647: SHIP/2024/02630
+2643: SHIP/2024/02626
+2637: SHIP/2024/02620
+2636: SHIP/2024/02619
+2635: SHIP/2024/02618
+2634: SHIP/2024/02617
+2591: SHIP/2024/02574
+2586: SHIP/2024/02569
+2585: SHIP/2024/02568
+2583: SHIP/2024/02566
+2581: SHIP/2024/02564
+2580: SHIP/2024/02563
+2571: SHIP/2024/02554
+1832: SHIP/2023/01815
+1830: SHIP/2023/01813
+Verificacion de ingresos a bodega de transitos en estado SAILING, ingresos bodega
+ID: 2846: SHIP/2024/02829
+Detalle verificado OK.
+W940011-AHN|*KE*|GRS-HN|91|3011|MSKU8620220|0
+-*-
+Clasificacion lineas OK.
+Incoterm: local, compra local True.
+Compra local or landed OK.
+Conectado a ALCANCE_HN
+Conectando con GRS-HN para verificar ingresos a bodega
+Ingresos bodega: 0
+ID: 2837: SHIP/2024/02820
+Detalle verificado OK.
+GXT2405GT|*XT*|GRS-GT|68|2998|WHSU6575565|0
+-*-
+GXT2405GT|*XT*|GRS-GT|68|2998|WHSU5469126|0
+-*-
+GXT2338GT|*XT*|GRS-GT|68|12|WHSU6309586|0
+-*-
+GXT2414GT|*XT*|GRS-GT|68|12|WHSU6676909|0
+-*-
+GXT2405GT|*XT*|GRS-GT|68|12|WHSU6575565|0
+-*-
+Clasificacion lineas OK.
+Incoterm: local, compra local True.
+Compra local or landed OK.
+Hora inicio: 9/09/2024 16:27:47
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:28:01
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:28:16
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:28:31
+execute[ obtieneJSon (string, string, string): Error reading JToken from JsonReader. Path '', line 0, position 0.
+Hora inicio: 9/09/2024 16:28:46
+3070: SHIP/2024/03053
+240406|*MINM*|GRS-GT|92|23|PCIU9216562|0
+-*-
+Conectado a GLOBALREACH
+Proveedor: P00004 [*MINM*]: SHENZHEN HEG IMPORT AND EXPORT CO LTD
+Cliente: CR00001: ALCANCE INTEGRAL S.A
+Transito ODOO [3070] SHIP/2024/03053 en [GLOBALREACH] Orden de compra No. [12657] 6203
+Orden procedente de CRM, no genera orden de venta en Global Reach
+***
+
+3045: SHIP/2024/03028
+3044: SHIP/2024/03027
+3043: SHIP/2024/03026
+3042: SHIP/2024/03025
+3041: SHIP/2024/03024
+3040: SHIP/2024/03023
+3039: SHIP/2024/03022
+3038: SHIP/2024/03021
+3037: SHIP/2024/03020
+3036: SHIP/2024/03019
+3035: SHIP/2024/03018
+3034: SHIP/2024/03017
+3030: SHIP/2024/03013
+3029: SHIP/2024/03012
+3028: SHIP/2024/03011
+3027: SHIP/2024/03010
+3025: SHIP/2024/03008
+3022: SHIP/2024/03005
+3021: SHIP/2024/03004
+3020: SHIP/2024/03003
+3019: SHIP/2024/03002
+3018: SHIP/2024/03001
+3017: SHIP/2024/03000
+3016: SHIP/2024/02999
+3015: SHIP/2024/02998
+3014: SHIP/2024/02997
+3013: SHIP/2024/02996
+3012: SHIP/2024/02995
+3011: SHIP/2024/02994
+3010: SHIP/2024/02993
+3009: SHIP/2024/02992
+3008: SHIP/2024/02991
+3007: SHIP/2024/02990
+3006: SHIP/2024/02989
+3005: SHIP/2024/02988
+3004: SHIP/2024/02987
+3003: SHIP/2024/02986
+3002: SHIP/2024/02985
+3001: SHIP/2024/02984
+3000: SHIP/2024/02983
+2999: SHIP/2024/02982
+2998: SHIP/2024/02981
+2997: SHIP/2024/02980
+2996: SHIP/2024/02979
+2994: SHIP/2024/02977
+2993: SHIP/2024/02976
+2992: SHIP/2024/02975
+2991: SHIP/2024/02974
+2988: SHIP/2024/02971
+2987: SHIP/2024/02970
+2986: SHIP/2024/02969
+2985: SHIP/2024/02968
+2984: SHIP/2024/02967
+2983: SHIP/2024/02966
+2982: SHIP/2024/02965
+2981: SHIP/2024/02964
+2980: SHIP/2024/02963
+2979: SHIP/2024/02962
+2978: SHIP/2024/02961
+2977: SHIP/2024/02960
+2976: SHIP/2024/02959
+2975: SHIP/2024/02958
+2974: SHIP/2024/02957
+2973: SHIP/2024/02956
+2972: SHIP/2024/02955
+2971: SHIP/2024/02954
+2969: SHIP/2024/02952
+2968: SHIP/2024/02951
+2967: SHIP/2024/02950
+2966: SHIP/2024/02949
+2965: SHIP/2024/02948
+2964: SHIP/2024/02947
+2963: SHIP/2024/02946
+2962: SHIP/2024/02945
+2961: SHIP/2024/02944
+2960: SHIP/2024/02943
+2959: SHIP/2024/02942
+2958: SHIP/2024/02941
+2957: SHIP/2024/02940
+2956: SHIP/2024/02939
+2955: SHIP/2024/02938
+2954: SHIP/2024/02937
+2953: SHIP/2024/02936
+2952: SHIP/2024/02935
+2951: SHIP/2024/02934
+2950: SHIP/2024/02933
+2949: SHIP/2024/02932
+2948: SHIP/2024/02931
+2947: SHIP/2024/02930
+2946: SHIP/2024/02929
+2945: SHIP/2024/02928
+2944: SHIP/2024/02927
+2943: SHIP/2024/02926
+2942: SHIP/2024/02925
+2941: SHIP/2024/02924
+2940: SHIP/2024/02923
+2939: SHIP/2024/02922
+2937: SHIP/2024/02920
+2936: SHIP/2024/02919
+2935: SHIP/2024/02918
+2934: SHIP/2024/02917
+2933: SHIP/2024/02916
+2932: SHIP/2024/02915
+2931: SHIP/2024/02914
+2930: SHIP/2024/02913
+2929: SHIP/2024/02912
+2927: SHIP/2024/02910
+2926: SHIP/2024/02909
+2925: SHIP/2024/02908
+2924: SHIP/2024/02907
+2923: SHIP/2024/02906
+2922: SHIP/2024/02905
+2921: SHIP/2024/02904
+2920: SHIP/2024/02903
+2919: SHIP/2024/02902
+2918: SHIP/2024/02901
+2917: SHIP/2024/02900
+2916: SHIP/2024/02899
+2915: SHIP/2024/02898
+2914: SHIP/2024/02897
+2913: SHIP/2024/02896
+2912: SHIP/2024/02895
+2911: SHIP/2024/02894
+2910: SHIP/2024/02893
+2909: SHIP/2024/02892
+2908: SHIP/2024/02891
+2907: SHIP/2024/02890
+2906: SHIP/2024/02889
+2905: SHIP/2024/02888
+2904: SHIP/2024/02887
+2903: SHIP/2024/02886
+2902: SHIP/2024/02885
+2901: SHIP/2024/02884
+2899: SHIP/2024/02882
+2898: SHIP/2024/02881
+2897: SHIP/2024/02880
+2896: SHIP/2024/02879
+2895: SHIP/2024/02878
+2894: SHIP/2024/02877
+2893: SHIP/2024/02876
+2892: SHIP/2024/02875
+2888: SHIP/2024/02871
+2887: SHIP/2024/02870
+2886: SHIP/2024/02869
+2885: SHIP/2024/02868
+2884: SHIP/2024/02867
+2883: SHIP/2024/02866
+2882: SHIP/2024/02865
+2881: SHIP/2024/02864
+2880: SHIP/2024/02863
+2879: SHIP/2024/02862
+2878: SHIP/2024/02861
+2877: SHIP/2024/02860
+2876: SHIP/2024/02859
+2875: SHIP/2024/02858
+2874: SHIP/2024/02857
+2873: SHIP/2024/02856
+2872: SHIP/2024/02855
+2871: SHIP/2024/02854
+2870: SHIP/2024/02853
+2865: SHIP/2024/02848
+2864: SHIP/2024/02847
+2863: SHIP/2024/02846
+2862: SHIP/2024/02845
+2861: SHIP/2024/02844
+2860: SHIP/2024/02843
+2859: SHIP/2024/02842
+2858: SHIP/2024/02841
+2857: SHIP/2024/02840
+2855: SHIP/2024/02838
+2854: SHIP/2024/02837
+2850: SHIP/2024/02833
+2849: SHIP/2024/02832
+2848: SHIP/2024/02831
+2845: SHIP/2024/02828
+2844: SHIP/2024/02827
+2843: SHIP/2024/02826
+2842: SHIP/2024/02825
+2840: SHIP/2024/02823
+2839: SHIP/2024/02822
+2838: SHIP/2024/02821
+2836: SHIP/2024/02819
+2832: SHIP/2024/02815
+2829: SHIP/2024/02812
+2828: SHIP/2024/02811
+2826: SHIP/2024/02809
+2824: SHIP/2024/02807
+2816: SHIP/2024/02799
+2815: SHIP/2024/02798
+2805: SHIP/2024/02788
+2804: SHIP/2024/02787
+2801: SHIP/2024/02784
+2800: SHIP/2024/02783
+2798: SHIP/2024/02781
+2797: SHIP/2024/02780
+2794: SHIP/2024/02777
+2791: SHIP/2024/02774
+2773: SHIP/2024/02756
+2772: SHIP/2024/02755
+2757: SHIP/2024/02740
+2756: SHIP/2024/02739
+2755: SHIP/2024/02738
+2749: SHIP/2024/02732
+2734: SHIP/2024/02717
+2733: SHIP/2024/02716
+2732: SHIP/2024/02715
+2731: SHIP/2024/02714
+2725: SHIP/2024/02708
+2721: SHIP/2024/02704
+2693: SHIP/2024/02676
+2690: SHIP/2024/02673
+2683: SHIP/2024/02666
+2682: SHIP/2024/02665
+2679: SHIP/2024/02662
+2678: SHIP/2024/02661
+2677: SHIP/2024/02660
+2668: SHIP/2024/02651
+2665: SHIP/2024/02648
+2664: SHIP/2024/02647
+2660: SHIP/2024/02643
+2658: SHIP/2024/02641
+2656: SHIP/2024/02639
+2655: SHIP/2024/02638
+2652: SHIP/2024/02635
+2651: SHIP/2024/02634
+2648: SHIP/2024/02631
+2647: SHIP/2024/02630
+2643: SHIP/2024/02626
+2637: SHIP/2024/02620
+2636: SHIP/2024/02619
+2635: SHIP/2024/02618
+2634: SHIP/2024/02617
+2591: SHIP/2024/02574
+2586: SHIP/2024/02569
+2585: SHIP/2024/02568
+2583: SHIP/2024/02566
+2581: SHIP/2024/02564
+2580: SHIP/2024/02563
+2571: SHIP/2024/02554
+1832: SHIP/2023/01815
+1830: SHIP/2023/01813
+Verificacion de ingresos a bodega de transitos en estado SAILING, ingresos bodega
+ID: 2846: SHIP/2024/02829
+Detalle verificado OK.
+W940011-AHN|*KE*|GRS-HN|91|3011|MSKU8620220|0
+-*-
