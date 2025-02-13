@@ -13,9 +13,9 @@ namespace ordersNTransfers
         static void Main(string[] args)
         {
             // uso general 
-            Boolean test = true;
+            Boolean test = false;
             int userSAP = 0;
-            string estadoTransitoBarco = "fiscal_warehouse"; //"sailing";
+            string estadoTransitoBarco = "fiscal_warehouse";  // "sailing";
             string estadoTransitoPuerto = "arrived_to_port";
             string estadoBodegaFiscal = "fiscal_warehouse";
             logObj lg;
@@ -137,12 +137,15 @@ namespace ordersNTransfers
                         {
                             foreach (JToken transit in trs["data"])
                             {
+                                lg.entryLog($"{transit["id"]}: {transit["name"]}, {transit["state"]}");
+                                
+                                 
                                 { 
-                                    if (transit["state"].ToString() == estadoTransitoBarco)
+                                    if (transit["state"].ToString() == estadoTransitoBarco || transit["state"].ToString()  == estadoBodegaFiscal)
                                     {
-                                        lg.entryLog($"{transit["id"]}: {transit["name"]}");
+                                        // lg.entryLog($"{transit["id"]}: {transit["name"]}");
 
-                                        if (transit["name"].ToString() == "SHIP/2024/03242")//if (transit["name"].ToString() == "SHIP/2024/06967" || transit["name"].ToString() == "SHIP/2024/06968" || transit["name"].ToString() == "SHIP/2024/06969" || transit["name"].ToString() == "SHIP/2025/06971" || transit["name"].ToString() == "SHIP/2025/06973" || transit["name"].ToString() == "SHIP/2025/06976" || transit["name"].ToString() == "SHIP/2025/06977" || transit["name"].ToString() == "SHIP/2025/06983") //if(transit["name"].ToString() == "SHIP/2024/06967")//if (transit["name"].ToString() == "SHIP/2025/06964" || transit["name"].ToString() == "SHIP/2025/06963" || transit["name"].ToString() == "SHIP/2025/06962")//if (transit["name"].ToString() == "SHIP/2025/06961" || transit["name"].ToString() == "SHIP/2025/06960" || transit["name"].ToString() == "SHIP/2025/06959")//if (transit["name"].ToString() == "SHIP/2024/") //if (transit["name"].ToString() == "SHIP/2024/03006") { continue; }//"SHIP/2024/02362")  // ((transit["name"].ToString() == "SHIP/2023/01103") || (transit["name"].ToString() == "SHIP/2022/01038"))//((transit["name"].ToString() == "SHIP/2022/00548")) || (transit["name"].ToString() == "SHIP/2021/00185")) // || (transit["name"].ToString() == "SHIP/2021/00012") || (transit["name"].ToString() == "SHIP/2021/00101") || (transit["name"].ToString() == "SHIP/2021/00098") || (transit["name"].ToString() == "SHIP/2021/00136"))
+                                        if (transit["name"].ToString() == "SHIP/2024/03248") //if (transit["name"].ToString() == "SHIP/2024/06967" || transit["name"].ToString() == "SHIP/2024/06968" || transit["name"].ToString() == "SHIP/2024/06969" || transit["name"].ToString() == "SHIP/2025/06971" || transit["name"].ToString() == "SHIP/2025/06973" || transit["name"].ToString() == "SHIP/2025/06976" || transit["name"].ToString() == "SHIP/2025/06977" || transit["name"].ToString() == "SHIP/2025/06983") //if(transit["name"].ToString() == "SHIP/2024/06967")//if (transit["name"].ToString() == "SHIP/2025/06964" || transit["name"].ToString() == "SHIP/2025/06963" || transit["name"].ToString() == "SHIP/2025/06962")//if (transit["name"].ToString() == "SHIP/2025/06961" || transit["name"].ToString() == "SHIP/2025/06960" || transit["name"].ToString() == "SHIP/2025/06959")//if (transit["name"].ToString() == "SHIP/2024/") //if (transit["name"].ToString() == "SHIP/2024/03006") { continue; }//"SHIP/2024/02362")  // ((transit["name"].ToString() == "SHIP/2023/01103") || (transit["name"].ToString() == "SHIP/2022/01038"))//((transit["name"].ToString() == "SHIP/2022/00548")) || (transit["name"].ToString() == "SHIP/2021/00185")) // || (transit["name"].ToString() == "SHIP/2021/00012") || (transit["name"].ToString() == "SHIP/2021/00101") || (transit["name"].ToString() == "SHIP/2021/00098") || (transit["name"].ToString() == "SHIP/2021/00136"))
                                         {
                                             faseActiva = "Verificacion de detalle y BL del transito, traslado de transitos";
 

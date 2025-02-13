@@ -371,7 +371,7 @@ namespace ordersNTransfers
 
                 rsPed = (SAPbobsCOM.Recordset)sapCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset);
                 rsPed.DoQuery(query);
-
+/*
                 if (rsPed.RecordCount != 0)
                 {
                     sapPurchaseOrder.Browser.Recordset = rsPed;
@@ -380,6 +380,7 @@ namespace ordersNTransfers
                     _lg.entryLog($"Transito ODOO [{_transit["id"]}] {_transit["name"]} en [{SAPHana.sapCompany.CompanyDB}] Orden de compra No. [{sapPurchaseOrder.DocEntry}] {sapPurchaseOrder.DocNum}");
                 }
                 else
+*/
                 {
                     sapPurchaseOrder.HandWritten = SAPbobsCOM.BoYesNoEnum.tNO;
                     sapPurchaseOrder.CardCode = _piNumber[_posicion, 2];
@@ -425,6 +426,7 @@ namespace ordersNTransfers
                      */
 
                     IsCFRCheck = _transit["is_cfr_check"].ToObject<bool>();
+
                     if (IsCFRCheck)
                     {
                         sapPurchaseOrder.Lines.ItemCode = "Flete Maritimo";
@@ -492,7 +494,8 @@ namespace ordersNTransfers
                                         if (_operacion == "GRS-CR")
                                         { sapPurchaseOrder.Lines.WarehouseCode = "01 B"; }
                                         else
-                                        { sapPurchaseOrder.Lines.WarehouseCode = "01"; }
+                                        { sapPurchaseOrder.Lines.WarehouseCode = "99"; }
+                                        //{ sapPurchaseOrder.Lines.WarehouseCode = "01"; }
 
                                         sapPurchaseOrder.Lines.Quantity = double.Parse(linea["product_qty"].ToString());
                                         sapPurchaseOrder.Lines.TaxCode = "EXE";
@@ -547,7 +550,7 @@ namespace ordersNTransfers
                             if (rsPed.RecordCount > 0)
                             {
                                 sapPurchaseOrder.Browser.Recordset = rsPed;
-                                sapPurchaseOrder.Browser.MoveFirst();
+                                sapPurchaseOrder.Browser.MoveLast();
                                 ordenCompra = sapPurchaseOrder.DocNum;
                             }
                             _lg.entryLog($"Transito ODOO [{_transit["id"]}] {_transit["name"]} en [{SAPHana.sapCompany.CompanyDB}] Orden de compra No. [{sapPurchaseOrder.DocEntry}] {sapPurchaseOrder.DocNum}");
